@@ -102,7 +102,7 @@ gitment:
         client_secret: 569ffb0bac38f69b6cfe52732aac1c61e2bcdeb1
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
+    owner: LjieNing
     repo: blog-comments
     clientID: b63f1d77da2e635b0ac5
     clientSecret: 569ffb0bac38f69b6cfe52732aac1c61e2bcdeb1
